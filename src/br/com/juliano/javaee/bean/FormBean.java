@@ -1,4 +1,4 @@
-package br.com.softblue.javaee.bean;
+package br.com.juliano.javaee.bean;
 
 import java.io.Serializable;
 import java.util.List;

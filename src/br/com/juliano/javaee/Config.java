@@ -1,4 +1,4 @@
-package br.com.softblue.javaee;
+package br.com.juliano.javaee;
 
 import javax.enterprise.context.ApplicationScoped;
 import javax.faces.annotation.FacesConfig;
